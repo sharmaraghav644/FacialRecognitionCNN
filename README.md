@@ -28,7 +28,6 @@ Facial recognition is a widely used biometric method that identifies individuals
 - `scikit-learn`
 - `matplotlib`
 - `numpy`
-- `opencv-python`
 
 ## Steps to Build the Model
 
