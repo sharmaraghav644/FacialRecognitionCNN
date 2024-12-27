@@ -19,7 +19,7 @@ Facial recognition is a widely used biometric method that identifies individuals
 - **Scikit-learn**: For splitting the dataset and evaluating model performance.
 - **Matplotlib**: For visualizing the model's results during training.
 - **NumPy**: For numerical operations and image handling.
-- **OpenCV**: For image manipulation and loading the dataset.
+
 
 ## Dependencies
 
