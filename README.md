@@ -81,8 +81,7 @@ The model is iterated by adjusting hyperparameters, architectures, and training 
 - The model uses a **Convolutional Neural Network (CNN)**, which is well-suited for image recognition tasks. It captures spatial hierarchies in images using convolution and pooling operations, which helps improve accuracy.
 - The **Fully Connected Layer** at the end of the model ensures that the extracted features are classified into one of the 40 possible classes (representing the 40 people in the dataset).
 
-### Performance:
-- The model is trained and iterated to achieve **over 90% accuracy** on facial recognition tasks. It uses techniques such as image normalization and data augmentation to ensure robustness against various image conditions (lighting, angles, etc.).
+
 
 ---
 
